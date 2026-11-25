@@ -1,5 +1,522 @@
 [
   {
+    "id": 1,
+    "question": "Đối tượng nghiên cứu của môn học Giáo dục quốc phòng và an ninh là gì?",
+    "options": {
+      "a": "Nghiên cứu về đường lối quân sự của Đảng, Công tác quốc phòng an ninh, Quân sự và kỹ năng quân sự cần thiết.",
+      "b": "Nghiên cứu về quan điểm đường lối quân sự của Đảng về xây dựng nền quốc phòng toàn dân.",
+      "c": "Nghiên cứu về quan điểm của chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh về công tác quốc phòng, an ninh.",
+      "d": "Nghiên cứu về quan điểm của Chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh về chiến tranh và quân đội."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Các phương pháp nghiên cứu môn học Giáo dục quốc phòng và an ninh?",
+    "options": {
+      "a": "Nghiên cứu lý thuyết, nghiên cứu thực tiễn.",
+      "b": "Nghiên cứu tập trung kết hợp với thảo luận nhóm.",
+      "c": "Kết hợp các phương pháp dạy học lý thuyết và thực hành.",
+      "d": "Nghiên cứu lý thuyết, nghiên cứu thực tiễn, kết hợp các phương pháp dạy học lý thuyết và thực hành."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 3,
+    "question": "Điều kiện để sinh viên được dự thi kết thúc học phần trong môn học Giáo dục quốc phòng và an ninh là?",
+    "options": {
+      "a": "Sinh viên có đủ 80% thời gian có mặt nghe giảng lý thuyết trên lớp và thực hành tại thao trường.",
+      "b": "Sinh viên có đủ số lần kiểm tra cho mỗi học phần theo quy định và phải có đủ 80% thời gian có mặt nghe giảng lý thuyết trên lớp và thực hành tại thao trường.",
+      "c": "Sinh viên có 25% thời gian vắng mặt nghe giảng lý thuyết trên lớp và thực hành tại thao trường.",
+      "d": "Sinh viên có đủ số lần kiểm tra cho mỗi học phần theo quy định, mỗi lần kiểm tra phải đạt 5 điểm trở lên và phải có đủ 20% thời gian có mặt nghe giảng lý thuyết trên lớp và thực hành tại thao trường."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Chọn câu trả lời sai. Môn học Giáo dục quốc phòng và an ninh là?",
+    "options": {
+      "a": "Là môn học chính khóa trong chương trình đào tạo đại học.",
+      "b": "Là môn học tự chọn trong chương trình đào tạo đại học.",
+      "c": "Là môn học bắt buộc trong chương trình đào tạo đại học.",
+      "d": "Là môn học điều kiện để xét tốt nghiệp trong chương trình đào tạo đại học."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Quá trình nghiên cứu môn học Giáo dục quốc phòng và an ninh phải nắm vững và vận dụng đúng đắn các quan điểm để tiếp cận khoa học?",
+    "options": {
+      "a": "Lịch sử, cụ thể biện chứng.",
+      "b": "Hệ thống, lịch sử, logic, thực tiễn.",
+      "c": "Khách quan, lịch sử, toàn diện.",
+      "d": "Hệ thống, biện chứng. Lịch sử, logic."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Giáo dục quốc phòng và an ninh là môn học bao gồm những kiến thức khoa học nào?",
+    "options": {
+      "a": "Xã hội, nhân văn, khoa học cơ bản và kỹ thuật quân sự.",
+      "b": "Xã hội, nhân văn và khoa học công nghệ.",
+      "c": "Xã hội, nhân văn, khoa học công nghệ và khoa học kỹ thuật quân sự.",
+      "d": "Xã hội, nhân văn, khoa học tự nhiên và khoa học kỹ thuật quân sự."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 7,
+    "question": "Nghiên cứu về nhiệm vụ, nội dung công tác quốc phòng, an ninh của Đảng hiện nay gồm những vấn đề gì?",
+    "options": {
+      "a": "Xây dựng lực lượng dân quân tự vệ, lực lượng dự bị động viên.",
+      "b": "Xây dựng lực lượng quốc phòng an ninh, lực lượng chiến tranh.",
+      "c": "Xây dựng và bảo vệ Tổ quốc Việt Nam Xã hội chủ nghĩa.",
+      "d": "Xây dựng tiềm lực và thế trận chiến tranh nhân dân."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Quan điểm của chủ nghĩa Mác - Lênin về chiến tranh là:",
+    "options": {
+      "a": "Một hiện tượng chính trị, xã hội.",
+      "b": "Một trong những nguyên nhân của bất bình đẳng giữa các dân tộc.",
+      "c": "Một hiện tượng chính trị, kinh tế và xã hội.",
+      "d": "Một hiện tượng chính trị, quân sự, văn hóa, xã hội."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về chiến tranh là:",
+    "options": {
+      "a": "Mối quan hệ giữa những giai cấp đối kháng.",
+      "b": "Mối quan hệ giữa những tập đoàn người có lợi ích cơ bản đối lập nhau.",
+      "c": "Mối quan hệ đối lập giữa các chế độ xã hội, thể chế chính trị.",
+      "d": "Mối quan hệ đối lập nhau về chính trị, kinh tế, văn hóa."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, chiến tranh xuất hiện từ hình thái kinh tế - xã hội nào?",
+    "options": {
+      "a": "Phong kiến.",
+      "b": "Chiếm hữu nô lệ.",
+      "c": "Cộng sản chủ nghĩa.",
+      "d": "Tư bản chủ nghĩa."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 11,
+    "question": "Chủ tịch Hồ Chí Minh ra lời kêu gọi toàn quốc kháng chiến chống thực dân Pháp vào thời gian nào?",
+    "options": {
+      "a": "Ngày 22 tháng 12 năm 1944.",
+      "b": "Ngày 22 tháng 12 năm 1946",
+      "c": "Ngày 19 tháng 12 năm 1946.",
+      "d": "Ngày 19 tháng 8 năm 1945."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 12,
+    "question": "Theo quan điểm của tư tưởng Hồ Chí Minh “cuộc chiến tranh do Pháp tiến hành ở nước ta là nhằm mục đích gì?",
+    "options": {
+      "a": "Thể hiện sức mạnh quân sự của một cường quốc.",
+      "b": "Giữ vững sự ổn định chính trị cho khu vực.",
+      "c": "Khai phá văn minh.",
+      "d": "Nhằm mục đích xâm lược."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 13,
+    "question": "Theo quan điểm của tư tưởng Hồ Chí Minh về cuộc chiến tranh của Nhân dân ta chống thực dân Pháp là:",
+    "options": {
+      "a": "Cuộc chiến tranh nhằm bảo vệ độc lập chủ quyền và thống nhất đất nước.",
+      "b": "Cuộc chiến tự vệ cách mạng chống lại kẻ thù.",
+      "c": "Cuộc chiến tranh chống giặc ngoại xâm.",
+      "d": "Cuộc chiến tranh bảo vệ khu vực Đông Dương."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "Theo quan điểm của tư tưởng Hồ Chí Minh về tính chất xã hội của cuộc chiến tranh xâm lược là:",
+    "options": {
+      "a": "Cuộc chiến tranh nhằm khai phá văn minh.",
+      "b": "Cuộc chiến tranh phi nghĩa.",
+      "c": "Cuộc chiến tranh nhằm giữ vững sự ổn định chính trị cho khu vực.",
+      "d": "Cuộc chiến tranh chính nghĩa."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Theo quan điểm của tư tưởng Hồ Chí Minh, nhân tố quyết định thắng lợi trong chiến tranh là:",
+    "options": {
+      "a": "Con người.",
+      "b": "Vũ khí trang bị.",
+      "c": "Vũ khí trang bị và sự ủng hộ của bạn bè quốc tế.",
+      "d": "Con người và vũ khí trang bị."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 16,
+    "question": "Theo quan điểm của Ph. Ăngghen, quân đội là:",
+    "options": {
+      "a": "Sức mạnh quân sự của một quốc gia.",
+      "b": "Một tổ chức của một giai cấp và nhà nước nhất định.",
+      "c": "Lực lượng được trang bị vũ khí hiện đại.",
+      "d": "Sức mạnh quân sự của một quốc gia, được trang bị vũ khí hiện đại."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "question": "Sức mạnh chiến đấu của quân đội theo quan điểm của chủ nghĩa Mác - Lênin phụ thuộc vào những yếu tố?",
+    "options": {
+      "a": "Con người, điều kiện kinh tế, chính trị, văn hóa, tư tưởng, an ninh, quốc phòng.",
+      "b": "Con người, điều kiện kinh tế, chính trị, an ninh, quốc phòng, vũ khí trang bị.",
+      "c": "Con người, điều kiện kinh tế, chính trị, văn hóa, tư tưởng, vũ khí trang bị, khoa học quân sự.",
+      "d": "Con người, điều kiện kinh tế, chính trị, văn hóa, xã hội, vũ khí trang bị, khoa học quân sự."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 18,
+    "question": "Tiền thân của Quân đội nhân dân Việt Nam có tên gọi?",
+    "options": {
+      "a": "Đội Việt Nam tuyên truyền giải phóng quân.",
+      "b": "Quân đội quốc gia Việt Nam.",
+      "c": "Việt Nam giải phóng quân.",
+      "d": "Vệ quốc đoàn."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "question": "Theo tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam có những chức năng?",
+    "options": {
+      "a": "Chiến đấu bảo vệ Tổ quốc.",
+      "b": "Chiến đấu, sản xuất, công tác.",
+      "c": "Chiến đấu, lao động sản xuất, tuyên truyền.",
+      "d": "Chiến đấu và tham gia giữ gìn hòa bình khu vực."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "Theo tư tưởng Hồ Chí Minh, nhiệm vụ cơ bản của quân đội là:",
+    "options": {
+      "a": "Xây dựng một đội quân ngày càng tinh nhuệ và sẵn sàng chiến đấu.",
+      "b": "Xây dựng một đội quân ngày càng hiện đại và sức chiến đấu cao.",
+      "c": "Xây dựng một đội quân đáp ứng nhiệm vụ tác chiến hiện đại.",
+      "d": "Xây dựng một đội quân ngày càng hùng mạnh và sẵn sàng chiến đấu."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 21,
+    "question": "Luận điểm nào sau đây thể hiện tư tưởng của Hồ Chí Minh về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+    "options": {
+      "a": "Đảng lãnh đạo mọi hoạt động của sự nghiệp bảo vệ Tổ quốc xã hội chủ nghĩa.",
+      "b": "Bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là một tất yếu khách quan.",
+      "c": "Bảo vệ Tổ quốc xã hội chủ nghĩa là nghĩa vụ, trách nhiệm của toàn dân tộc, toàn thể giai cấp công nhân và nhân dân lao động.",
+      "d": "Bảo vệ Tổ quốc xã hội chủ nghĩa là một tất yếu khách quan."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "question": "Đảng Cộng sản Việt Nam lãnh đạo sự nghiệp bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa?",
+    "options": {
+      "a": "Là quan điểm của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa.",
+      "b": "Là quan điểm của chủ nghĩa Mác - Lênin về chiến tranh.",
+      "c": "Là tư tưởng Hồ Chí Minh về chiến tranh.",
+      "d": "Là tư tưởng Hồ Chí Minh về bảo vệ Tổ quốc xã hội chủ nghĩa."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 23,
+    "question": "Theo tư tưởng Hồ Chí Minh lực lượng vũ trang nhân dân Việt Nam bao gồm:",
+    "options": {
+      "a": "Bộ đội chủ lực, Bộ đội biên phòng, Bộ đội địa phương.",
+      "b": "Bộ đội chủ lực, Bộ đội địa phương, Dân quân tự vệ.",
+      "c": "Bộ đội chính qui, Công an nhân dân, Bộ đội địa phương và Dân quân tự vệ.",
+      "d": "Bộ đội chủ lực, Bộ đội biên phòng, Bộ đội địa phương, Công an nhân dân và Dân quân tự vệ."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "Chiến tranh được thể hiện dưới một hình thức đặc biệt là:",
+    "options": {
+      "a": "Thể hiện tiềm lực quân sự của mình.",
+      "b": "Bạo lực phản cách mạng.",
+      "c": "Bạo lực vũ trang.",
+      "d": "Giải quyết những mâu thuẩn nhất định."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 25,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguồn gốc sâu xa nảy sinh chiến tranh là:",
+    "options": {
+      "a": "Sự xuất hiện và tồn tại của các thể chế chính trị đối lập nhau.",
+      "b": "Sự xuất hiện và tồn tại của các lực lượng đối lập nhau.",
+      "c": "Sự xuất hiện và tồn tại của nhiều thành phần kinh tế.",
+      "d": "Sự xuất hiện và tồn tại của chế độ chiếm hữu tư nhân về tư liệu sản xuất."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 26,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguồn gốc trực tiếp nảy sinh chiến tranh là:",
+    "options": {
+      "a": "Sự xuất hiện và tồn tại của giai cấp và đối kháng giai cấp.",
+      "b": "Sự xuất hiện và tồn tại của chế độ chiếm hữu tư nhân về tư liệu sản xuất.",
+      "c": "Sự xuất hiện và tồn tại khác nhau về văn hóa dân tộc.",
+      "d": "Sự xuất hiện và tồn tại của nhiều thành phần kinh tế."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 27,
+    "question": "Theo quan điểm của V.I. Lênin về bản chất của chiến tranh là:",
+    "options": {
+      "a": "Sự tiếp tục của những lợi ích bằng bạo lực.",
+      "b": "Sự tiếp tục của mâu thuẩn bằng bạo lực.",
+      "c": "Sự tiếp tục của của quân sự bằng bạo lực.",
+      "d": "Sự tiếp tục của chính trị bằng bạo lực."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 28,
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin về bản chất của chiến tranh là:",
+    "options": {
+      "a": "Làm xóa bỏ những mâu thuẩn vốn có trong xã hội có đối kháng giai cấp.",
+      "b": "Làm giảm đi những mâu thuẩn vốn có trong xã hội có đối kháng giai cấp.",
+      "c": "Làm tăng thêm những mâu thuẩn vốn có trong xã hội có đối kháng giai cấp.",
+      "d": "Giải quyết những mâu thuẩn vốn có trong xã hội có đối kháng giai cấp."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 29,
+    "question": "Theo quan điểm của tư tưởng Hồ Chí Minh: bạo lực cách mạng được tạo bởi sức mạnh của toàn dân bằng?",
+    "options": {
+      "a": "Cả lực lượng chính trị và lực lượng quân sự.",
+      "b": "Cả lực lượng chính trị và lực lượng bán vũ trang.",
+      "c": "Cả lực lượng chính trị và lực lượng vũ trang.",
+      "d": "Cả lực lượng chính trị và sức mạnh tinh thần."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 30,
+    "question": "“Ngày nay chiến tranh giải phóng dân tộc của nhân dân ta là chiến tranh nhân dân dưới sự lãnh đạo của Đảng” là lời khẳng định của:",
+    "options": {
+      "a": "Nguyễn Văn Linh.",
+      "b": "Trường Chinh.",
+      "c": "Võ Nguyên Giáp.",
+      "d": "Hồ Chí Minh."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 31,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về nguồn gốc ra đời của quân đội?",
+    "options": {
+      "a": "Khi có chiến tranh xâm lược.",
+      "b": "Khi các nước lớn mở rộng lãnh thổ.",
+      "c": "Là sự xuất hiện chế độ tư hữu về tư liệu sản xuất và sự phân chia xã hội thành giai cấp đối kháng.",
+      "d": "Là sự xuất hiện loài người trên trái đất."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 32,
+    "question": "Bản chất giai cấp của quân đội theo quan điểm của chủ nghĩa Mác - Lênin?",
+    "options": {
+      "a": "Là công cụ bạo lực vũ trang của một giai cấp, nhà nước nhất định.",
+      "b": "Là sự xuất hiện chế độ tư hữu về tư liệu sản xuất là chủ yếu.",
+      "c": "Là những cuộc chiến tranh xâm lược vơ vét tài nguyên.",
+      "d": "Là công cụ thực hiện phi bạo lực của một giai cấp, nhà nước nhất định."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 33,
+    "question": "Sức mạnh chiến đấu của quân đội thể hiện: “Trong mọi cuộc chiến tranh rốt cuộc thắng lợi đều tùy thuộc vào tinh thần của quần chúng đang đổ máu trên chiến trường” là lời khẳng định của ai?",
+    "options": {
+      "a": "Ph. Ăngghen.",
+      "b": "V. I. Lênin.",
+      "c": "C. Mác.",
+      "d": "Hồ Chí Minh."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 34,
+    "question": "Khẳng định sự ra đời của quân đội là một tất yếu, là vấn đề có tính quy luật trong đấu tranh giai cấp, đấu tranh dân tộc ở Việt Nam là:",
+    "options": {
+      "a": "Tư tưởng của Võ Nguyên Giáp về quân đội.",
+      "b": "Tư tưởng của Trần Đại Nghĩa về quân đội.",
+      "c": "Tư tưởng của Trường Chinh về quân đội.",
+      "d": "Tư tưởng của Hồ Chí Minh về quân đội."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 35,
+    "question": "Theo Tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam mang bản chất?",
+    "options": {
+      "a": "Của giai cấp công – nông - trí thức.",
+      "b": "Của giai cấp công - nông.",
+      "c": "Của giai cấp công nhân.",
+      "d": "Của giai cấp công nhân tiến bộ."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 36,
+    "question": "Theo Tư tưởng Hồ Chí Minh, nhiệm vụ cơ bản của quân đội là:",
+    "options": {
+      "a": "Thiết thực tham gia lao động sản xuất góp phần xây dựng chủ nghĩa xã hội.",
+      "b": "Thiết thực tham gia củng cố tiềm lực quân sự của đất nước.",
+      "c": "Thiết thực tham gia huấn luyện, diễn tập, nâng cao kỹ năng tác chiến.",
+      "d": "Thiết thực tham gia xây dựng thế trận phòng thủ vững chắc."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 37,
+    "question": "Tư tưởng Hồ Chí Minh về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+    "options": {
+      "a": "Mục tiêu bảo vệ tổ quốc là độc lập dân tộc và chủ nghĩa xã hội, là nghĩa vụ và trách nhiệm của mọi công dân.",
+      "b": "Phải thường xuyên tăng cường tiềm lực quốc phòng gắn với phát triển kinh tế - xã hội.",
+      "c": "Đảng Cộng sản lãnh đạo mọi mặt sự nghiệp bảo vệ Tổ quốc xã hội chủ nghĩa.",
+      "d": "Bảo vệ Tổ quốc xã hội chủ nghĩa là một tất yếu khách quan."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 38,
+    "question": "Tư tưởng Hồ Chí Minh về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+    "options": {
+      "a": "Sức mạnh bảo vệ Tổ quốc là sức mạnh tinh thần của dân tộc, cả nước, kết hợp với sức mạnh thời đại.",
+      "b": "Sức mạnh bảo vệ Tổ quốc là sức mạnh chính trị của dân tộc, cả nước, kết hợp với sức mạnh thời đại.",
+      "c": "Sức mạnh bảo vệ Tổ quốc là sức mạnh tổng hợp của cả dân tộc, cả nước, kết hợp với sức mạnh thời đại.",
+      "d": "Sức mạnh bảo vệ Tổ quốc là sức mạnh quân sự của dân tộc, cả nước, kết hợp với sức mạnh thời đại."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 39,
+    "question": "Theo tư tưởng Hồ Chí Minh, sử dụng bạo lực cách mạng để?",
+    "options": {
+      "a": "Giành chính quyền và giữ chính quyền.",
+      "b": "Lật đổ chế độ cũ, xây dựng chế độ mới.",
+      "c": "Xây dựng và bảo vệ chính quyền cách mạng, xây dựng chế độ mới.",
+      "d": "Tiêu diệt các lực lượng phản cách mạng và lật đổ chính quyền phản động."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 40,
+    "question": "Lý luận của chủ nghĩa Mác - Lênin về bản chất giai cấp của quân đội là:",
+    "options": {
+      "a": "Mang bản chất từ thành phần xuất thân của lực lượng vũ trang.",
+      "b": "Mang bản chất quần chúng nhân dân lao động.",
+      "c": "Là lực lượng bảo vệ đất nước, không mang bản chất chính trị.",
+      "d": "Mang bản chất giai cấp nhà nước đã tổ chức nuôi dưỡng và sử dụng quân đội."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 41,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, chiến tranh trở thành “Bạn đường” của mọi chế độ tư hữu, đó chính là:",
+    "options": {
+      "a": "Tính chất của cuộc chiến tranh.",
+      "b": "Bản chất của cuộc chiến tranh.",
+      "c": "Nguồn gốc nảy sinh chiến tranh.",
+      "d": "Mục tiêu của cuộc chiến tranh."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 42,
+    "question": "Theo quan điểm của V. I. Lênin về bản chất của chiến tranh là:",
+    "options": {
+      "a": "Một hiện tượng lịch sử cụ thể.",
+      "b": "Một phương thức tranh giành lợi ích.",
+      "c": "Một hiện tượng lịch sử cụ thể, phát sinh nhiều mâu thuẩn.",
+      "d": "Thể hiện dưới một hình thức đặc biệt."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 43,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin về bản chất của chiến tranh là:",
+    "options": {
+      "a": "Quân sự chi phối và quyết định toàn bộ tiến trình và kết cục của chiến tranh.",
+      "b": "Chính trị chi phối và quyết định toàn bộ tiến trình và kết cục của chiến tranh.",
+      "c": "Kinh tế chi phối và quyết định toàn bộ tiến trình và kết cục của chiến tranh.",
+      "d": "Kinh tế, văn hóa, tư tưởng chi phối và quyết định toàn bộ tiến trình và kết cục của chiến tranh."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 44,
+    "question": "Quan điểm của V. I. Lênin về nguyên tắc cơ bản xây dựng quân đội kiểu mới là:",
+    "options": {
+      "a": "Đoàn kết thống nhất quân đội với nhân dân; trung thành tuyệt đối với Tổ quốc.",
+      "b": "Đoàn kết thống nhất quân đội với giai cấp; trung thành với chủ nghĩa quốc tế vô sản.",
+      "c": "Đoàn kết thống nhất quân đội với Nhân dân; trung thành với chủ nghĩa quốc tế vô sản.",
+      "d": "Đoàn kết thống nhất ý chí chiến đấu; trung thành với chủ nghĩa quốc tế vô sản."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 45,
+    "question": "Quan điểm của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+    "options": {
+      "a": "Sức mạnh bảo vệ Tổ quốc là sức mạnh tổng hợp của cả dân tộc.",
+      "b": "Bảo vệ Tổ quốc xã hội chủ nghĩa là một tất yếu khách quan.",
+      "c": "Độc lập dân tộc và chủ nghĩa xã hội.",
+      "d": "Sự nghiệp bảo vệ Tổ quốc là thiêng liêng, là nghĩa vụ của mọi công dân."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 46,
+    "question": "Quan điểm của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+    "options": {
+      "a": "Bảo vệ Tổ quốc xã hội chủ nghĩa là thiêng liêng, trách nhiệm của toàn dân tộc và Nhân dân lao động.",
+      "b": "Bảo vệ Tổ quốc xã hội chủ nghĩa là mục tiêu chiến lược của toàn dân tộc, toàn thể giai cấp công nhân và Nhân dân lao động.",
+      "c": "Bảo vệ Tổ quốc xã hội chủ nghĩa là nghĩa vụ, trách nhiệm của toàn dân tộc, toàn thể giai cấp công nhân và Nhân dân lao động.",
+      "d": "Bảo vệ Tổ quốc xã hội chủ nghĩa là trách nhiệm mỗi công dân, toàn thể giai cấp công nhân và các lực lượng."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 47,
+    "question": "Quan điểm của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+    "options": {
+      "a": "Đảng Cộng sản tiên phong trong nhiệm vụ bảo vệ Tổ quốc xã hội chủ nghĩa.",
+      "b": "Đảng lãnh đạo sự nghiệp xây dựng và bảo vệ Tổ quốc xã hội chủ nghĩa.",
+      "c": "Đảng lãnh đạo mọi hoạt động của sự nghiệp bảo vệ Tổ quốc xã hội chủ nghĩa.",
+      "d": "Đảng Cộng sản lãnh đạo mọi mặt sự nghiệp bảo vệ Tổ quốc xã hội chủ nghĩa."
+    },
+    "answer": "d"
+  },
+  {
     "id": 48,
     "question": "Nền quốc phòng toàn dân là sức mạnh quốc phòng của đất nước được xây dựng trên nền tảng?",
     "options": {
@@ -283,7 +800,7 @@
       "c": "Tạo nên khả năng về khoa học, công nghệ của quốc gia có thể khai thác, huy động phục vụ cho quốc phòng, an ninh",
       "d": "Tạo nên khả năng về vũ khí trang bị để phòng thủ đất nước."
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
     "id": 74,
@@ -372,5 +889,214 @@
       "d": "Có kế hoạch chuyển sản xuất từ thời bình sang thời chiến."
     },
     "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "Chiến tranh nhân dân Việt Nam?",
+    "options": {
+      "a": "Là quá trình sử dụng tiềm lực của đất nước để xây dựng và đi lên chủ nghĩa xã hội.",
+      "b": "Là quá trình sử dụng tiềm lực quốc phòng an ninh để xây dựng đất nước, đẩy mạnh công nghiệp hoá, hiện đại hoá.",
+      "c": "Là quá trình sử dụng tiềm lực của đất nước, nhất là tiềm lực quốc phòng an ninh, nhằm đánh bại ý đồ xâm lược lật đổ của kẻ thù đối với cách mạng nước ta.",
+      "d": "Là quá trình sử dụng tiềm lực quốc phòng an ninh để ứng phó với mọi tình huống chiến tranh."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 83,
+    "question": "Đối tượng tác chiến của chiến tranh nhân dân bảo vệ Tổ quốc là:",
+    "options": {
+      "a": "Chủ nghĩa khủng bố và ly khai cực đoan.",
+      "b": "Chủ nghĩa dân tộc hẹp hòi và chủ nghĩa nước lớn.",
+      "c": "Các thế lực thù địch có hành động phá hoại, xâm lược, lật đổ cách mạng.",
+      "d": "Các thế lực thù địch cấu kết với các thế lực bên ngoài."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 84,
+    "question": "Một trong những âm mưu, thủ đoạn chủ yếu của kẻ thù khi xâm lược nước ta là:",
+    "options": {
+      "a": "Sử dụng các biện pháp phi vũ trang, kết hợp bạo loạn lật đổ từ bên trong.",
+      "b": "Thực hiện đánh nhanh, thắng nhanh, kết hợp tiến công quân sự từ bên ngoài vào với hành động bạo loạn, lật đổ từ bên trong.",
+      "c": "Đánh chắc, tiến chắc kết hợp sử dụng hỏa lực bắn phá một số nơi.",
+      "d": "Tổ chức phong tỏa kết hợp hỏa lực bắn phá một số khu vực trọng điểm."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 85,
+    "question": "“Tiến hành chiến tranh nhân dân toàn dân đánh giặc lấy lực lượng vũ trang nhân dân làm nòng cốt kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực”. Được xác định là:",
+    "options": {
+      "a": "Mục đích.",
+      "b": "Quan điểm.",
+      "c": "Tính chất.",
+      "d": "Biện pháp."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "Khi tiến hành chiến tranh xâm lược, địch có điểm mạnh:",
+    "options": {
+      "a": "Chúng được sự chi viện giúp đỡ, chi viện của các nước khác.",
+      "b": "Chúng được sự đồng tình ủng hộ của nhân dân trong nước.",
+      "c": "Chúng có sức mạnh quân sự, kinh tế, tiềm lực khoa học công nghệ.",
+      "d": "Chúng tiến hành chiến tranh với mục đích mở rộng lãnh thổ."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 87,
+    "question": "Khi tiến hành chiến tranh xâm lược, địch có điểm yếu:",
+    "options": {
+      "a": "Tiềm lực quân sự, kinh tế, khoa học công nghệ còn hạn chế.",
+      "b": "Khi tiến hành chiến tranh không lôi kéo được lực lượng phản động nội địa.",
+      "c": "Đây là cuộc chiến tranh phi nghĩa, chắc chắn bị nhân loại phản đối.",
+      "d": "Trình độ tác chiến, phương tiện kĩ thuật thô sơ."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 88,
+    "question": "Một trong những tính chất của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Chiến tranh diễn ra khẩn trương, quyết liệt, phức tạp ngay từ đầu và trong suốt quá trình chiến tranh.",
+      "b": "Là cuộc chiến tranh nhân dân toàn dân, toàn diện, lấy lực lượng vũ trang ba thứ quân làm nòng cốt, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+      "c": "Không ngừng nghiên cứu các cuộc chiến tranh trên thế giới, nghiên cứu nghệ thuật quân sự để phát triển nghệ thuật quân sự lên tầm cao mới.",
+      "d": "Lịch sử chứng minh: nhân dân ta tiến hành cuộc kháng chiến toàn diện, đấu tranh với địch trên nhiều mặt trận nhờ đó mà thắng lợi, giành và giữ nền độc lập dân tộc."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 89,
+    "question": "Có bao nhiêu quan điểm của Đảng trong chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "4 quan điểm.",
+      "b": "5 quan điểm.",
+      "c": "6 quan điểm.",
+      "d": "7 quan điểm."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 90,
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Tiến hành chiến tranh toàn diện, kết hợp chặt chẽ giữa đấu tranh quân sự, chính trị, ngoại giao, kinh tế, văn hóa và tư tưởng, lấy đấu tranh quân sự là chủ yếu, lấy thắng lợi trên chiến trường là yếu tố quyết định để giành thắng lợi trong chiến tranh.",
+      "b": "Không ngừng nghiên cứu các cuộc chiến tranh trên thế giới, nghiên cứu nghệ thuật quân sự để phát triển nghệ thuật quân sự lên tầm cao mới. Xây dựng khu vực phòng thủ vững chắc.",
+      "c": "Lịch sử chứng minh nhân dân ta tiến hành cuộc kháng chiến toàn diện, đấu tranh với địch trên nhiều mặt trận nhờ đó mà thắng lợi, giành và giữ nền độc lập dân tộc.",
+      "d": "Phải vận dụng sáng tạo nhiều hình thức và biện pháp đấu tranh, có nghệ thuật chỉ đạo và phối hợp chặt chẽ, song, phải luôn lấy đấu tranh quân sự là chủ yếu, lấy thắng lợi trên chiến trường là yếu tố quyết định để kết thúc chiến tranh."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 91,
+    "question": "Một trong những quan điểm của Đảng về chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "options": {
+      "a": "Kết hợp kháng chiến với xây dựng, vừa kháng chiến vừa xây dựng, ra sức sản xuất thực hành tiết kiệm giữ gìn và bồi dưỡng lực lượng ta càng đánh càng mạnh.",
+      "b": "Xây dựng khu vực phòng thủ mạnh toàn diện, có khả năng độc lập tác chiến, phối hợp với lực lượng chủ lực, đơn vị bạn đánh địch liên tục dài ngày.",
+      "c": "Cuộc chiến tranh xâm lược nước ta, kẻ thù sẽ tiến công từ bên ngoài vào với hành động bạo loạn lật đổ từ bên trong, thực hiện đánh nhanh, giải quyết nhanh buộc ta phải khuất phục.",
+      "d": "Trong quá trình chuẩn bị lực lượng vũ trang phải có kế hoạch, phương án chiến đấu và được quán triệt tới mọi người, kết hợp giải quyết tốt các tình huống chiến đấu diễn ra."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 92,
+    "question": "Một trong những biện pháp của quan điểm “Tiến hành chiến tranh nhân dân, toàn dân đánh giặc lấy lực lượng vũ trang nhân dân làm nòng cốt. Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực”.",
+    "options": {
+      "a": "Không ngừng chăm lo xây dựng các lực lượng vũ trang vững mạnh toàn diện, đặc biệt chất lượng về chính trị.",
+      "b": "Phải vận dụng sáng tạo nhiều hình thức và biện pháp đấu tranh, có nghệ thuật chỉ đạo và phối hợp chặt chẽ, song, phải luôn lấy đấu tranh quân sự là chủ yếu.",
+      "c": "Trong chiến tranh phải vừa kháng chiến, vừa duy trì và đẩy mạnh sản xuất đảm bảo nhu cầu vật chất kỹ thuật cho chiến tranh, ổn định đời sống nhân dân",
+      "d": "Chuẩn bị mọi mặt trên cả nước cũng như từng khu vực, đủ sức đánh được lâu dài, ra sức tạo thời cơ, nắm vững thời cơ, chủ động đối phó và giành thắng lợi trong thời gian cần thiết."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 93,
+    "question": "Chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc xã hội chủ nghĩa trong tình hình mới gồm?",
+    "options": {
+      "a": "3 đặc điểm.",
+      "b": "4 đặc điểm.",
+      "c": "5 đặc điểm.",
+      "d": "6 đặc điểm."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 94,
+    "question": "Nội dung chủ yếu của chiến tranh nhân dân bảo vệ Tổ quốc gồm?",
+    "options": {
+      "a": "2 nội dung.",
+      "b": "3 nội dung.",
+      "c": "4 nội dung.",
+      "d": "5 nội dung."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Sau khi thất bại trong chiến dịch Điện Biên Phủ, thực dân Pháp phải kí hiệp định?",
+    "options": {
+      "a": "Hiệp định Paris.",
+      "b": "Hiệp định sơ bộ.",
+      "c": "Hiệp định Giơ-ne-vơ.",
+      "d": "Hiệp định hòa hoãn."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 96,
+    "question": "Sau khi thất bại trong chiến dịch Điện Biên Phủ trên không, đế quốc Mĩ phải kí hiệp định?",
+    "options": {
+      "a": "Hiệp định sơ bộ.",
+      "b": "Hiệp định Giơ-ne-vơ.",
+      "c": "Hiệp định hòa hoãn.",
+      "d": "Hiệp định Paris."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 97,
+    "question": "Một trong những nội dung chủ yếu của chiến tranh nhân dân bảo vệ Tổ quốc là:",
+    "options": {
+      "a": "Tổ chức xây dựng kế hoạch tác chiến.",
+      "b": "Tổ chức thế trận chiến tranh nhân dân.",
+      "c": "Tổ chức triển khai đội hình phòng thủ.",
+      "d": "Tổ chức xây dựng phương án tác chiến."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Một trong những nội dung chủ yếu của chiến tranh nhân dân bảo vệ Tổ quốc là:",
+    "options": {
+      "a": "Phối hợp chặt chẽ chống quân địch tiến công từ bên ngoài vào và bạo loạn lật đổ từ bên trong.",
+      "b": "Lực lượng toàn dân được tổ chức chặt chẽ thành lực lượng quần chúng rộng rãi và lực lượng quân sự.",
+      "c": "Thế trận chiến tranh bố trí rộng trên cả nước nhưng phải có trọng tâm trọng điểm.",
+      "d": "Xây dựng lực lượng vũ trang vững mạnh toàn diện, coi trọng cả số lượng và chất lượng."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 99,
+    "question": "Trong nội dung chiến tranh nhân dân, khi tiến hành chiến tranh xâm lược, kẻ địch có những điểm yếu nào?",
+    "options": {
+      "a": "Đây là cuộc chiến tranh phi nghĩa, chắc chắn bị nhân loại phản đối. Dân tộc ta có truyền thống yêu nước, chống xâm lược, chắc chắn sẽ làm cho chúng bị tổn thất nặng nề, đánh bại cuộc chiến tranh xâm lược của địch. Địa hình thời tiết nước ta phức tạp khó khăn cho việc triển khai sử dụng phương tiện, lực lượng.",
+      "b": "Là cuộc chiến tranh chính nghĩa, tự vệ cách mạng, nhằm bảo vệ độc lập chủ quyền, thồng nhất toàn vẹn lãnh thổ, bảo vệ Đảng, bảo vệ nhân dân và chế độ xã hội chủ nghĩa nên được mọi người ủng hộ.",
+      "c": "Là cuộc chiến tranh mang tính độc lập, tự chủ, tự lực tự cường, dựa vào sức mình là chính, nhưng đồng thời cũng tranh thủ sự ủng hộ, giúp đỡ của nhân dân trên thế giới.",
+      "d": "Là cuộc chiến tranh mang tính hiện đại, tuy nhiên lực lượng nhân dân tham gia chiến tranh, phát huy cách đánh giặc phong phú, sáng tạo của nhân dân ta trong suốt quá trình chiến tranh."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 100,
+    "question": "Một trong những biện pháp của quan điểm: “Tiến hành chiến tranh nhân dân, toàn dân đánh giặc lấy lực lượng vũ trang nhân dân làm nòng cốt. Kết hợp tác chiến của lực lượng vũ trang địa phương với tác chiến của các binh đoàn chủ lực” là:",
+    "options": {
+      "a": "Phải vận dụng sáng tạo nhiều hình thức và biện pháp đấu tranh, có nghệ thuật chỉ đạo và phối hợp chặt chẽ.",
+      "b": "Đảng phải có đường lối chiến lược, sách lược đúng, tạo thế và lực cho từng mặt trận đấu tranh tạo nên sức mạnh.",
+      "c": "Tăng cường giáo dục quốc phòng, an ninh cho mọi tầng lớp Nhân dân, nhất là thế hệ trẻ nói chung và sinh viên nói riêng.",
+      "d": "Chiến tranh là thử thách toàn diện, cả sức mạnh vật chất và sức mạnh tinh thần của quốc gia, do đó chúng ta phải tiến hành chiến tranh toàn diện."
+    },
+    "answer": "c"
   }
 ]
